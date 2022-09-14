@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rahuldev7583@gmail.com**
 
-- ⚡ Bonus fact **I do poetry in Instagram**
+- ⚡ Bonus fact **I do poetry on Instagram**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
