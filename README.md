@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **rahuldev7583@gmail.com**
 
-- ⚡ Bonus fact **I do poetry on Instagram**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -29,7 +27,6 @@
 <p align="left">
 <a href="https://twitter.com/rahuldev_75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldev_75" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-dev-a5aa7718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-dev-a5aa7718b" height="30" width="40" /></a>
-<a href="https://instagram.com/th_is_rahuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="th_is_rahuldev" height="30" width="40" /></a>
 <a href="https://medium.com/@rahuldev7583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahuldev7583" height="30" width="40" /></a>
 </p>
 
