@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **some React projects.**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://rahuldev7583.github.io/portfolio/](https://rahuldev7583.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@rahuldev7583](https://medium.com/@rahuldev7583)
+- 📝 Sometimes I write articles on [https://medium.com/@rahuldev7583](https://medium.com/@rahuldev7583)
 
 - 💬 Ask me about **React, MERN**
 
