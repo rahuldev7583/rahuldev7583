@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/rOruU8lf_rLPuSyxIk0aAlVMhbfFgbZvskMAYncPuWk/rs:fit:245:180:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL21v/aGl0amFpc2FsL0lt/YWdlU3RvcmUvbWFz/dGVyL1JlYWRtZS1N/b2hpdEphaXNhbC9H/SUZzLzEtRGV2ZWxv/cGVyLmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldev7583&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldev7583" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuldev7583" alt="rahuldev7583" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iamrahul_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iamrahul_dev?logo=twitter&style=for-the-badge" alt="iamrahul_dev" /></a> </p>
 
 - 🔭 I’m currently working on **some full-stack project**
