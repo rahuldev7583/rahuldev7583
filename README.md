@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **some full-stack project**
 
-- 🌱 I’m currently learning **typescript and next.js**
+- 🌱 I’m currently learning **trpc**
 
 - 👨‍💻 All of my projects are available at [https://iamrahul.dev](https://iamrahul.dev)
-
-- 📝 I write articles on [https://iamrahul.dev/blog](https://iamrahul.dev/blog)
 
 - 💬 Ask me about **MERN stack**
 
