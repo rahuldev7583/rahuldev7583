@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Dev</h1>
-<h3 align="center">A full-stack developer from Bihar, India</h3>
+<h3 align="center">A full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/rOruU8lf_rLPuSyxIk0aAlVMhbfFgbZvskMAYncPuWk/rs:fit:245:180:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL21v/aGl0amFpc2FsL0lt/YWdlU3RvcmUvbWFz/dGVyL1JlYWRtZS1N/b2hpdEphaXNhbC9H/SUZzLzEtRGV2ZWxv/cGVyLmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldev7583&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldev7583" /> </p>
 
