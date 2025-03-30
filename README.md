@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rahul Dev</h1>
-<h3 align="center">A full-stack developer</h3>
+<h3 align="center">A full-stack developer exploring blockchain</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/rOruU8lf_rLPuSyxIk0aAlVMhbfFgbZvskMAYncPuWk/rs:fit:245:180:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL21v/aGl0amFpc2FsL0lt/YWdlU3RvcmUvbWFz/dGVyL1JlYWRtZS1N/b2hpdEphaXNhbC9H/SUZzLzEtRGV2ZWxv/cGVyLmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldev7583&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldev7583" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamrahul_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iamrahul_dev?logo=twitter&style=for-the-badge" alt="iamrahul_dev" /></a> </p>
 
-- 🔭 I’m currently working on **some full-stack project**
+- 🔭 I’m currently working on **some solana projects**
 
-- 🌱 I’m currently learning **trpc**
+- 🌱 I’m currently learning **Blockchain and Rust**
 
 - 👨‍💻 All of my projects are available at [https://iamrahul.dev](https://iamrahul.dev)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Full Stack , Blockchain, Crypto, Rust, Solana**
 
 - 📫 How to reach me **rahuldev2714@gmail.com**
 
