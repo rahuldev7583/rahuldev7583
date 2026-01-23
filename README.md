@@ -59,5 +59,6 @@ I write technical deep dives on Solana & Rust infrastructure:
 
 - Twitter: https://twitter.com/iamrahul_dev
 - GitHub: https://github.com/rahuldev7583
+- Gmail: **rahuldev2714@gmail.com**
 
 Open to **Rust / Solana infra roles** and **contract work**.
