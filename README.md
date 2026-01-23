@@ -1,6 +1,6 @@
 # Hi, I’m Rahul Dev 👋
 
-I’m a **Rust & Solana-focused engineer** on RPC, validator internals, and async Rust.
+I’m a **Rust & Solana-focused engineer** on **RPC, validator internals, and async Rust**.
 
 
 ---
