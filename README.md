@@ -31,7 +31,7 @@ I’m a **Rust & Solana engineer** working on **RPC, validator internals, and as
 - Explicit safety invariants around shared memory
 - Benchmarks comparing in-process vs sidecar RPC
 
-📂 Repo: `https://github.com/rahuldev7583/blazeRPC`
+📂 Repo: https://github.com/rahuldev7583/blazeRPC
 
 ---
 
