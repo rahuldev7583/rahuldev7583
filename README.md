@@ -1,6 +1,6 @@
 # Hi, I’m Rahul Dev 👋
 
-I’m a **Rust & Solana engineer** working on **RPC, validator internals, and async Rust**.
+I’m a **Full stack developer** currently working on **RPC, Solana validator internals, and async Rust**.
 
 
 ---
@@ -59,5 +59,3 @@ I write technical deep dives on Solana & Rust infrastructure:
 - Twitter: https://twitter.com/iamrahul_dev
 - GitHub: https://github.com/rahuldev7583
 - Gmail: **rahuldev2714@gmail.com**
-
-Open to **Rust / Solana infra roles** and **contract work**.
