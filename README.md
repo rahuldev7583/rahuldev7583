@@ -31,7 +31,7 @@ I’m a **Full stack developer** currently working on **RPC, Solana validator in
 - Explicit safety invariants around shared memory
 - Benchmarks comparing in-process vs sidecar RPC
 
-📂 Repo: https://github.com/rahuldev7583/blazeRPC
+📂 Repo: https://github.com/rahuldev7583/agave-sidecar-ipc
 
 ---
 
